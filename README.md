@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Sean 👋
+
+# I am a full-stack developer currently in San Francisco, CA.
+
+- 🔭 I’m currently looking for new opportunities as a software engineer
+- 📫 How to reach me: seansangpark@gmail.com | linkedin.com/in/seansangpark/
+
+
+
+
 
 <!--
 **seansangpark/seansangpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
