@@ -1,9 +1,9 @@
-### Hi, I'm Sean 👋
+# Hi, I'm Sean 👋
 
-# I am a full-stack developer currently in San Francisco, CA.
+### I am a full-stack developer currently in San Francisco, CA.
 
 - 🔭 I’m currently looking for new opportunities as a software engineer
-- 📫 How to reach me: seansangpark@gmail.com | linkedin.com/in/seansangpark/
+- 📫 How to reach me: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
 
 
 
