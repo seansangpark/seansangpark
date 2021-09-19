@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-### I am a full-stack developer currently in San Francisco, CA.
+### I am a full stack developer currently in San Francisco, CA.
 
 - 🔭  I’m currently looking for new opportunities as a software engineer
 - 💻  I'm using Node.js React/Redux, Bootstrap, Express, PostgresSQL, MongoDB, MySQL, and more!
