@@ -2,9 +2,9 @@
 
 ### I am a full stack developer currently in San Francisco, CA.
 
-- 💻  I'm using Node.js React/Redux, Bootstrap, Express, PostgreSQL, MongoDB, MySQL, and more!
-- 🌱  I’m currently learning TypeScript and Next.js
-- 📫  How to reach me: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
+- 💻    I'm using Node.js React/Redux, Bootstrap, Express, PostgreSQL, MongoDB, MySQL, and more
+- 🌱    I’m currently learning TypeScript and Next.js
+- 📫    How to reach me: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
 
 
 
