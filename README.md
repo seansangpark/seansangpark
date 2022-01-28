@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-### I am a Software Engineer at Checkr, Inc.
+### I am a Software Engineer based in San Francisco, CA
 
 - 💻    I'm using Node.js React/Redux, Bootstrap, Express, PostgreSQL, MongoDB, MySQL, and more
 - 🌱    I’m currently learning Ruby and Ruby on Rails 
