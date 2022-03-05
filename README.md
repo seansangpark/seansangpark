@@ -2,9 +2,7 @@
 
 ### I am a Software Engineer based in San Francisco, CA
 
-- 💻    I'm using Node.js React/Redux, Bootstrap, Express, PostgreSQL, MongoDB, MySQL, and more
-- 🌱    I’m currently learning Ruby and Ruby on Rails 
-- 📫    How to reach me: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
+- 📫: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
 
 
 
