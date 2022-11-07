@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-### I am a Software Engineer based in San Francisco, CA
+### I am a Software Engineer based in Denver, CO
 
 - 📫: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
 
