@@ -2,7 +2,7 @@
 
 ### I am a Software Engineer traveling the world.
 
-- 📫: seansangpark@gmail.com | [LinkedIn](https://www.linkedin.com/in/seansangpark/)
+- 📫: seansangpark@gmail.com | [LinkedIn/seansangpark](https://www.linkedin.com/in/seansangpark/)
 
 
 
