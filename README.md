@@ -1,4 +1,4 @@
-# Hi, I'm Sean 👋
+# Hi, This is Sean.
 
 ### I am a Software Engineer traveling the world.
 
