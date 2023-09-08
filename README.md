@@ -2,7 +2,7 @@
 
 ### I am a Software Engineer living in New York City. Open to new opportunities!
 
-- 📫: seansangpark@gmail.com | [LinkedIn/seansangpark](https://www.linkedin.com/in/seansangpark/) | [seansangpark.com](https://seansangpark.com/)
+- 📫: [seansangpark.com](https://seansangpark.com/) | [LinkedIn/seansangpark](https://www.linkedin.com/in/seansangpark/) | seansangpark@gmail.com 
 
 
 
