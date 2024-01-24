@@ -19,7 +19,7 @@ Fully responsive local business landing page. Developed using React/CSS/Animatio
 Fully responsive local business landing page. Developed using React/CSS/Animations/Gradients.
 
 ### [Sunny Cleaners](https://sunnydrycleaners.net/)
-Fully responsive local business landing page. Developed using React/CSS/Animations/Gradients.
+Fully responsive local business landing page. Developed using React, Tailwind CSS, and Vite JS.
 
 Feel free to explore more projects on my [seansangpark.com](https://seansangpark.com/).
 
