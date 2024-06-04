@@ -1,3 +1,10 @@
+## 💻 Tech Stack
+- **Frontend**: JavaScript, Ruby on Rails, TypeScript, Next.js, React/Redux, Angular, HTML5, CSS3, Bootstrap
+- **Backend**: Ruby on Rails, Node.js, Express, RESTful API Development, GraphQL
+- **Database**: PostgreSQL, MongoDB, MySQL
+- **Testing/Deployment**: Jest, Mocha, React Testing Library, Rspec, AWS EC2, K6, Loader.io, New Relic, Docker
+- **Dev Tools**: Vim, Git, npm, Webpack, Babel
+
 <!---
 # Hello 👋 I'm Sean Park, a Full Stack Developer
 
