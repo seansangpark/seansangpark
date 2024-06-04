@@ -1,3 +1,4 @@
+<!---
 # Hello 👋 I'm Sean Park, a Full Stack Developer
 
 Welcome to my GitHub profile! I'm passionate about building robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to development. Currently exploring new opportunities to contribute my skills and expertise.
@@ -32,3 +33,4 @@ I'm open to collaboration and new opportunities. If you're looking for a dedicat
 
 ## 🌱 Learning
 I believe in continuous learning and staying updated with the latest technologies. Currently exploring Python to enhance my skill set.
+-->
