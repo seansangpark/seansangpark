@@ -1,6 +1,6 @@
 ## 💻 Tech Stack
-- **Frontend**: JavaScript, TypeScript, Next.js, React/Redux, Angular, HTML5, CSS3, Bootstrap
-- **Backend**: Ruby on Rails, Node.js, Express, RESTful API Development, GraphQL
+- **Frontend**: JavaScript, TypeScript, Next.js, Vue.js, Nuxt, React/Redux, HTML5, CSS3, Bootstrap
+- **Backend**: Python, Django, Ruby on Rails, Node.js, Express, RESTful API, GraphQL
 - **Database**: PostgreSQL, MongoDB, MySQL
 - **Testing/Deployment**: Jest, Mocha, React Testing Library, Rspec, AWS EC2, K6, Loader.io, New Relic, Docker
 - **Dev Tools**: Vim, Git, npm, Webpack, Babel
